@@ -2,7 +2,7 @@
 
 [![GitHub mahendrarathore1742](https://img.shields.io/github/followers/mahendrarathore1742?label=follow&style=social)](https://github.com/mahendrarathore1742)
 [![Gmail Badge](https://img.shields.io/badge/mahendrarathore1743@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:mahendrarathore1743@gmail.com)](mailto:mahendrarathore1743@gmail.com)
-
+[![Instagram Badge](https://img.shields.io/badge/-mr_robot1742-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/mr_robot1742/)](https://instagram.com/mr_robot1742)
 
   
 I develop software, build technical communities, create content and love meeting new people!
