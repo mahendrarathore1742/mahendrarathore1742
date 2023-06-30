@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-mr_robot1742-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/mr_robot1742/)](https://instagram.com/mr_robot1742)
 
   
-I develop software, build technical communities, create content and love meeting new people!
+I develop software!!
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendrarathore1742&show_icons=true&locale=en&layout=compact" alt="mahendrarathore1742" /></p>
