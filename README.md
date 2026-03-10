@@ -12,4 +12,3 @@ I develop software!!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahendrarathore1742&show_icons=true&locale=en" alt="mahendrarathore1742" /></p>
 
-![Metrics](https://metrics.lecoq.io/mahendrarathore1742?template=classic&base=header%2Cactivity%2Ccommunity&plugin_activity=true&plugin_activity_limit=5&plugin_activity_days=14&plugin_activity_filter=all&plugin_followup=true&plugin_followup_sections=repositories&plugin_isocalendar=true&plugin_languages=true&plugin_languages_sections=most-used&plugin_languages_limit=8)
